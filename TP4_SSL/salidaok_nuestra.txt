@@ -1,0 +1,16 @@
+declarar var1
+declarar var2
+leer
+declarar total
+inversión
+multiplicación
+suma
+asignacion
+suma
+paréntesis
+multiplicación
+asignacion
+división
+escribir
+Compilación exitosa
+Errores sintácticos: 0, Errores léxicos 0

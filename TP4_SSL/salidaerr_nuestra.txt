@@ -1,0 +1,13 @@
+línea #3: syntax error, unexpected DECLARAR, expecting ';'
+leer
+línea #5: Error léxico común por cadena inválida: &!@
+línea #5: syntax error, unexpected ';', expecting IDENTIFICADOR
+declarar var2
+declarar total
+línea #8: Error léxico por constante inválida:: 32z
+línea #8: syntax error, unexpected '*', expecting CONSTANTE or IDENTIFICADOR or '-' or '('
+línea #9: Error léxico por identificador inválido: var2&2@1
+división
+escribir
+Error de compilación
+Errores sintácticos: 3, Errores léxicos 3
